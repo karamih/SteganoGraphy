@@ -1,0 +1,5 @@
+file name: stegano_encode_1425199
+memorize: 1
+height: 1080
+width: 700
+key: 18144000

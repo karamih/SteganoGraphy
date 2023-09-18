@@ -1,0 +1,4 @@
+env/
+.idea/
+app/__pycache__/__init__.cpython-39.pyc
+app/__pycache__/stegano.cpython-39.pyc
